@@ -3,6 +3,7 @@ Random Forest classifier implementation from scratch with Python3 as a part of E
 
 <img width="996" alt="Screen Shot 2021-05-17 at 17 34 19" src="https://user-images.githubusercontent.com/77360680/118507650-1b0f3d80-b737-11eb-9225-f5d7cb34bfc7.png">
 
+Note: [The EMNIST Balanced Dataset](https://www.kaggle.com/crawford/emnist) is splitted 80/20% for training and validation such that each of the 47 classes will have 1920 training and 480 validation samples.
 
 ### Simulation Setup and Final Results 
 
@@ -19,3 +20,4 @@ In summary, the test results can be inspected from the confusion matrix given at
 <img width="746" alt="Screen Shot 2021-05-17 at 17 42 47" src="https://user-images.githubusercontent.com/77360680/118508594-01bac100-b738-11eb-8850-78608ceaf5da.png">
 
 <img width="456" alt="Screen Shot 2021-05-17 at 17 47 22" src="https://user-images.githubusercontent.com/77360680/118508584-fff0fd80-b737-11eb-9ed8-d2ff7208ddc5.png">
+Figure 1: Confusion matrix of the best Random Forest model of Table 2
